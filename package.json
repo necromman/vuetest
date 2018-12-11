@@ -1,0 +1,24 @@
+{
+  "name": "vuejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-runtime": "^6.26.0",
+    "bower": "^1.8.4",
+    "node-sass": "^4.11.0",
+    "sass-loader": "^7.1.0",
+    "vue": "^2.5.20"
+  },
+  "dependencies": {
+    "bulma": "^0.7.2",
+    "localforage": "^1.7.3",
+    "vue-cli": "^2.9.6",
+    "vuex": "^3.0.1"
+  }
+}

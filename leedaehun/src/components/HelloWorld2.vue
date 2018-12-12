@@ -2,7 +2,7 @@
   <div class="hello">
 
     <h1 v-for="item in items">{{ item.message }}</h1>
-    <h2>Essential Links</h2>
+    <h2>페이지 이동이 된다아~</h2>
     <ul>
       <li>
         <a
@@ -115,6 +115,6 @@
   }
 
   a {
-    color: #42b983;
+    color: #b90909;
   }
 </style>

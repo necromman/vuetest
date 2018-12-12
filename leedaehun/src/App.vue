@@ -1,7 +1,10 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+    <router-link to="/ss">ss</router-link>
+    헤더
+    네비
     <router-view/>
+    푸터
   </div>
 </template>
 

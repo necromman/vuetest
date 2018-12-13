@@ -10,5 +10,12 @@ new Vue({
   el: '#app',
   router,
   components: { App },
-  template: '<App/>'
+  template: '<App/>',
+  data : {
+    a:1
+  },
+  create: function () {
+    console.log('a is:' + this.a)
+    alert("adf")
+  }
 })

@@ -1,7 +1,6 @@
 <template>
   <div class="hello">
 
-    <h1 v-for="item in items">{{ item.message }}</h1>
     <h2>Essential Links</h2>
     <ul>
       <li>
